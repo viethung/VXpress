@@ -1,0 +1,25 @@
+{
+	"name": "VXpress",
+	"version": "0.0.1",
+	"description": "Simple web framework, inspired from PHP Yii framework MVC files orgranisation",
+	"main": "main.js",
+	"dependency": {
+		"mysql":	"2.0.0-alpha8"
+	},
+	"scripts": {
+		"test": "test.js"
+	},
+	"engines": {
+		"node": ">=0.10.12"
+	},
+	"keywords": [
+		"Simple",
+		"Express",
+		"Web",
+		"framework",
+		"Yii"
+	],
+	"author": "Viet Nguyen",
+	"license": "BSD"
+}
+	
